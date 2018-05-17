@@ -55,6 +55,7 @@ Like `awesome-educational-games`? Reach out to original author of it on [Twitter
 
 ## Music
 
+- [Learning Music](https://learningmusic.ableton.com) - Explore the fundamentals of music via Ableton's interactive website.
 - [Pianu](https://pianu.com) - Learn how to play the piano in-browser.
 
 ## Programming
@@ -67,6 +68,7 @@ Like `awesome-educational-games`? Reach out to original author of it on [Twitter
 - [CodeCombat](https://codecombat.com/) - The most engaging coding game for learning programming.
 - [CodinGame](https://www.codingame.com/) - A challenge-based training platform where you can play with the hottest programming topics.
 - [CSS Diner](https://flukeout.github.io/) - It's a little game to help you learn CSS selectors.
+- [CSS Grid Garden](http://cssgridgarden.com/) - A game for learning CSS grid layout.
 - [Cube Composer](http://david-peter.de/cube-composer/) - A puzzle game inspired by functional programming.
 - [Deadlock Empire](https://deadlockempire.github.io/) - Solve puzzles with concurrency.
 - [Expressions](http://expressions.wingtiplabs.com) - Learn how to use regular expressions for just $5.
